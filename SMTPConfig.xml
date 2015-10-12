@@ -1,0 +1,6 @@
+<SMTPConfig>
+    <to>adres@email.com</to>
+    <from>adres@email.com</from>
+    <subject>Windows Update Report</subject>
+    <smtpserver>smtp-server-address</smtpserver>
+</SMTPConfig>
