@@ -1,6 +1,8 @@
 # Get-Updates
 Detect waiting updates on remote servers and workstations in whole domain.
 
+Feel free to download, use this code.
+You can also change and redistribute changed version. Please remember to add information about author of this script and url to my blog https://blog.polewiak.pl - Thanks in advance... :)
 
 .SYNOPSIS
 Get-WaitingUpdates.ps1 - Report Windows Update status from several computers
