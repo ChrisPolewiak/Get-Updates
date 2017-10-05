@@ -141,7 +141,7 @@ Process
 
         $Data = ""
 
-        LogWrite "INFO" "Searching for updates in $($Computer.DNSHostName)" .\Get-Updates.cmd
+        LogWrite "INFO" "Searching for updates in $($Computer.DNSHostName)"
         # Internal invoke command without ComputerName
         if( $HostName -ne $Computer.Name )
         {
